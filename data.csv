@@ -1,0 +1,12 @@
+Student_ID,Name,Age,Gender,Marks,City
+101,Arun,20,Male,85,Bangalore
+102,Priya,21,Female,90,Mysore
+103,Rahul,,Male,78,Chennai
+104,Anjali,22,Female,,Bangalore
+105,Kiran,20,Male,88,Hyderabad
+106,Meena,21,Female,92,Mysore
+106,Meena,21,Female,92,Mysore
+107,Ravi, ,Male,75,Chennai
+108,Sneha,23,Female,95,Bangalore
+109,Ajay,twenty,Male,80,Hyderabad
+110,Divya,22,Female,89,
